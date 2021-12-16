@@ -1,0 +1,1 @@
+az bicep publish --file storage.bicep --target br:mgbicepregistry.azurecr.io/bicep/modules/storage:v1
